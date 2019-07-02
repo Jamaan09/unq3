@@ -1,0 +1,6 @@
+owner=354091525690621953
+prefix=x
+game=Unique
+stayinchannel=true
+songinstatus=false
+token=NTYyNzAyMDk5NTI0MDkxOTE0.XRuu2Q.Me_X93w9yKYcAYgy6Qo_rUF_GeQ
